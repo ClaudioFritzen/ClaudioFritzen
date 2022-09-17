@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oiii eu sou o Claudio Fritzen. 
+## Oiii eu sou o Claudio Fritzen. Sou programador web Python 
 <div align="center">
   <a href="https://github.com/claudiofritzen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claudiofritzen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
